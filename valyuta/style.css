@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    flex-direction:row;
+    padding-left: 10px;
+  }
+  .form-control{
+      width: 200px;
+      height: 30px;
+      border-radius: 5px;
+
+  }
+  .form-select{
+      margin-left: 10px;
+      padding-left: 10px;
+      height: 35px;
+      border-radius: 5px;
+  }
+  .btn{
+    margin-left: 2px;
+    padding-left: 10px;
+    height: 35px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
